@@ -1,4 +1,4 @@
-const address = "0x237f0A6c126F979cEd363079f7Cc0bB848e1802B";
+const address = "0x267917f9eE1f8DBCb95e92e6Da82233D999e247b";
 const infuraId = "6d233bb428724900aa1d6ac6bba531b1"     // Infuria ID | https://infura.io/ | For Wallet Connect
 const moralisApi = "8lLcZsKmH7Scwxzqp7O3REOhP8nGAMh9CjJTjKwVMQzYJ16fKNs9rClIsQOq0kyx"    // x-api-key | https://moralis.io/ | For NFTs
 
@@ -22,7 +22,7 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 0.12,         // Price per NFT.
+    price: 0.01,         // Price per NFT.
     totalSupply: 500,   // Total supply of NFTs.
     minUnits: 1,        // Min units to buy.
     maxUnits: 10,        // Max units to buy.
