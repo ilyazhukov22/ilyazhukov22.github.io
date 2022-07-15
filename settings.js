@@ -3,12 +3,12 @@ const infuraId = "6d233bb428724900aa1d6ac6bba531b1"     // Infuria ID | https://
 const moralisApi = "l6ZoJSnpax9hN8isbl0PDv64Kr9y0VzRWUB5YGekwSQ4Qgt5E9ZU4pG5Hg8Bc0dL"    // x-api-key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
-    name: "Tripsters",
-    title: "Tripsters", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    name: "The Sandbox",
+    title: "The Sandbox", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "04/27/2022",
     socialMedia: {
-        discord: "https://discord.gg/tripsters",
-        twitter: "https://twitter.com/Tripsters",
+        discord: "https://discord.com/invite/thesandboxgame",
+        twitter: "https://twitter.com/thesandboxgame",
     },
     medias: {
         preview: "preview.gif",
@@ -22,7 +22,7 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 0.01,         // Price per NFT.
+    price: 0.07,         // Price per NFT.
     totalSupply: 500,   // Total supply of NFTs.
     minUnits: 1,        // Min units to buy.
     maxUnits: 10,        // Max units to buy.
