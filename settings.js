@@ -4,7 +4,7 @@ const moralisApi = "l6ZoJSnpax9hN8isbl0PDv64Kr9y0VzRWUB5YGekwSQ4Qgt5E9ZU4pG5Hg8B
 
 const collectionInfo = {
     name: "The Sandbox",
-    title: "Alpha Season 3", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    title: "Alpha Season 3 Virtual Lands", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "04/27/2022",
     socialMedia: {
         discord: "https://discord.com/invite/thesandboxgame",
